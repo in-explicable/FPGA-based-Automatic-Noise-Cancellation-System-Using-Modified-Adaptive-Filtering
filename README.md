@@ -47,11 +47,15 @@ The system consists of the following components:
 - **Latency**: Low latency suitable for real-time applications.
 - **Resource Utilization**: Efficient use of FPGA resources, including logic elements, DSP blocks, and memory.
 
+---
+
 ## Future Scope
 - Extension to multichannel noise control systems.
 - Integration of machine learning models for adaptive noise filtering.
 - Optimization of FPGA designs for further energy efficiency.
 - Testing in real-world environments for broader applicability.
+
+---
 
 ## Contributors
 - Nivesh S
@@ -62,6 +66,8 @@ The system consists of the following components:
 Guided by: **Dr. A.V. Ananthalakshmi**
 
 Department of Electronics and Communication Engineering, Puducherry Technological University.
+
+---
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
